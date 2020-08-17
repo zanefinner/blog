@@ -1,3 +1,8 @@
-{"require": {
-    "ext-mbstring": "*"
-}}
+{
+    "name": "vendor-name/project-name",
+    "description": "This is a very cool package!",
+    "version": "0.3.0",
+    "require": {
+        "ext-mbstring": "*"
+    }
+}
